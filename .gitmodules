@@ -1,0 +1,6 @@
+[submodule "NotASlack_frontend"]
+	path = NotASlack_frontend
+	url = https://github.com/temchik00/NotASlack_frontend
+[submodule "NotASlack_backend"]
+	path = NotASlack_backend
+	url = https://github.com/temchik00/NotASlack_backend
